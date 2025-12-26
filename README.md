@@ -1,16 +1,20 @@
-## Hi there 👋
+ Hi, Im Reece
+Im an inspiring cloud professional working towards becoming a AWS solution architect associate.
+Im building hands on AWS projects focused on real world infrastructure,security and operations.
 
-<!--
-**reece-alex/reece-alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# SKILLS & TOOLS
 
-Here are some ideas to get you started:
+-AWS (EC2,VPC,S3,IAm,Cloudwatch)
+-Basic Terraform
+-Linux fundamentals
+-Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Featured Projects 
+
+-Secure AWS Web Infrastructure (VPC,EC2,ALB,Monitoring)
+-Backup & Disaster Recovery on AWS
+-Monitoring & Alerting with CloudWatch
+
+# Goal
+
+TO secure a junior cloud / cloud support role in johannesburg.
