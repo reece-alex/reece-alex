@@ -1,5 +1,5 @@
  Hi, Im Reece
-Im an inspiring cloud professional working towards becoming a AWS solution architect associate.
+Im an aspiring cloud professional working towards becoming a AWS solution architect associate.
 Im building hands on AWS projects focused on real world infrastructure,security and operations.
 
 # SKILLS & TOOLS
